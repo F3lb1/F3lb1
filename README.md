@@ -5,7 +5,7 @@ https://github.com/F3lb1/git_test
 
 
 ## Мои навыки:
-<img src="[https://storage.tally.so/3a4c5a2e-a412-41b4-bad5-61899c529461/4515839.png](https://storage.tally.so/46c3a05e-ef49-4477-bfc2-61b06e136b3a/telegram-bot.png](https://storage.tally.so/3a4c5a2e-a412-41b4-bad5-61899c529461/4515839.png)" width="10%">
+<img src="https://storage.tally.so/3a4c5a2e-a412-41b4-bad5-61899c529461/4515839.png" width="10%">
 <!--
 **F3lb1/F3lb1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
